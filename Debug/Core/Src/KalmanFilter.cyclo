@@ -1,0 +1,7 @@
+KalmanFilter.c:8:7:KalmanFilter_Init	1
+KalmanFilter.c:18:7:updateEstimate	1
+KalmanFilter.c:29:6:setMeasurementError	1
+KalmanFilter.c:33:6:setEstimateError	1
+KalmanFilter.c:37:6:setProcessNoise	1
+KalmanFilter.c:41:7:getKalmanGain	1
+KalmanFilter.c:46:7:getEstimateError	1

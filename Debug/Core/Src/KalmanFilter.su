@@ -1,0 +1,7 @@
+../Core/Src/KalmanFilter.c:8:7:KalmanFilter_Init	24	static
+../Core/Src/KalmanFilter.c:18:7:updateEstimate	16	static
+../Core/Src/KalmanFilter.c:29:6:setMeasurementError	16	static
+../Core/Src/KalmanFilter.c:33:6:setEstimateError	16	static
+../Core/Src/KalmanFilter.c:37:6:setProcessNoise	16	static
+../Core/Src/KalmanFilter.c:41:7:getKalmanGain	16	static
+../Core/Src/KalmanFilter.c:46:7:getEstimateError	16	static
